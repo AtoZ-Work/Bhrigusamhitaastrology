@@ -1,6 +1,6 @@
 /*===== GOOGLE FONTS =====*/
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
-@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@700&family=Redressed&display=swap');
+
 
 /*===== VARIABLES CSS =====*/
 :root {
@@ -14,7 +14,7 @@
   --text-color-light: #A6A6A6;
   --body-color: #FBFEFD;
   --container-color: #FFFFFF;
-  --bg1-color:linear-gradient(to top right,   #E50914 -30%,#ffff05 100%);
+  /* --bg1-color:linear-gradient(to top right,   #E50914 -30%,#ffff05 100%); */
 
   /*========== Font and typography ==========*/
   --body-font: 'Poppins', sans-serif;
@@ -62,26 +62,6 @@
 
 html{
   scroll-behavior: smooth;
-}
-
-/*========== Variables Dark theme ==========*/
-body.dark-theme{
-  --first-color:#FFCC00;
-  --title-color: #F1F3F2;
-  --text-color: #C7D1CC;
-  --body-color: #1D2521;
-  --container-color: #27302C;
-  --bg1-color:linear-gradient(to top right,  #ff0000 0%, #ffff05 100%);
-}
-
-/*========== Button Dark/Light ==========*/
-.change-theme{
-  position: absolute;
-  right: 1rem;
-  top: 1.8rem;
-  color: var(--title-color);
-  font-size: 1rem;
-  cursor: pointer;
 }
 
 body{
@@ -289,7 +269,7 @@ img{
 /*========== BUTTONS ==========*/
 .button{
   display: inline-block;
-  background: linear-gradient(to top right, #ff9966 0%, #ff0000 100%);
+  background: var(--first-color);
   color: #FFF;
   padding: .75rem 1rem;
   border-radius: .5rem;
@@ -303,17 +283,16 @@ img{
 /*========== ABOUT ==========*/
 .about__data{
   text-align: center;
+  
 }
 
 .about__description{
   margin-bottom: var(--mb-3);
+  justify-content: center;
+  background-color: #1D2521;
+  color: #A6A6A6;
 }
 
-.about__img{
-  width: 280px;
-  border-radius: .5rem;
-  justify-self: center;
-}
 
 /*========== SERVICES ==========*/
 .services__container{
