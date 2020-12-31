@@ -290,7 +290,7 @@ img{
   margin-bottom: var(--mb-3);
   justify-content: center;
   background-color: #F65314; 
-  color: #393939;
+  color: #ffffff;
 }
 
 
@@ -457,7 +457,7 @@ img{
     align-items: center;
   }
 
-  .about__data, .about__initial,
+   .about__initial,
   .app__data, .app__initial,
   .contact__container, .contact__initial{
     text-align: initial;
