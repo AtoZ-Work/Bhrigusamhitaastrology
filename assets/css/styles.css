@@ -289,7 +289,7 @@ img{
 .about__description{
   margin-bottom: var(--mb-3);
   justify-content: center;
-  background-color: #F65314;
+  background-color: #F65314; 
   color: #A6A6A6;
 }
 
