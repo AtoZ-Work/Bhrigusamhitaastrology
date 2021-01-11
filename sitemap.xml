@@ -16,7 +16,7 @@
       />
       <meta name="keywords" content="Bhrigu Samhita, Bhrigusamhita,bhrigusamhita,bhrigu samhita,bhrigusamhita pune,bhrigusamhita specialist, professional astrologer,phd in astrology, nirmala agrawal, nirmala agrawal pune, nirmala agrawal astrology, nirmala agrawal bhrigusamhita, nirmala agrawal lamafera, nirmala agrawal yogmaya,nirmala agrawal astrologer, Career Problems,Education Problems,Health Problems,Business Problems,Love Problems,Marriage Problems,Children Problems,Abroad Problems,Court Case Problems,Past Life Problems,Graha Dosha Problems,Vastu Dosha Problems,Family Dispute Resolution ,Black Magic,Vashikaran Problems, Kundali Matching Problems, Husband Wife Dispute, Divorce Problem, Tarot Card Reading, ">
   
-        <title>Bhrigusamhita Research Centre</title>
+        <title>Yogmaya</title>
 
         <!-- favicon design -->
         <link rel="apple-touch-icon" sizes="57x57" href="assets/img/apple-icon-57x57.png">
@@ -52,9 +52,9 @@
                     <ul class="nav__list">
                         <li class="nav__item"><a href="index.html" class="nav__link ">Home</a></li>
                         <li class="nav__item"><a href="about.html" class="nav__link">About us</a></li>
-                        <li class="nav__item"><a href="#bhrigu" class="nav__link active-link">Bhrigu Samhita</a></li>
+                        <li class="nav__item"><a href="bhrigusamhita.html" class="nav__link">Bhrigu Samhita</a></li>
                         <li class="nav__item"><a href="lamafera.html" class="nav__link">Lama Fera</a></li>
-                        <li class="nav__item"><a href="yogmaya.html" class="nav__link">Yogmaya</a></li>
+                        <li class="nav__item"><a href="#yogmaya" class="nav__link active-link">Yogmaya</a></li>
                         <li class="nav__item"><a href="index.html#contact" class="nav__link">Contact us</a></li>
                         <li class="nav__item"><a href="privacypolicy.html" class="nav__link">Privacy Policy</a></li>
                     </ul>
@@ -72,70 +72,18 @@
         <br>
 
         <main class="l-main">
-               
-            <!------- About Section --------->
-            <section class="about section menu__content bd-container" id="bhrigu">
                 
-                <h2 class="section-title about__initial">BHRIGU SAMHITA THE ORIGIN :</h2>
-                <div class="about__container  bd-grid">
-                    <img src="assets/img/bhrigu.jpg" alt="Bhrigusamhita" class="home__img">
-                    <div class="about__data">
-                        <p class="about__description">The samadhi of the great Maharashi Bhrigu is situated in Western Maharashtra at Wai, Satara District. A small village is named after him ie; Bhuinj.</p>
-                        <p class="about__description">Bhrigu rishi had always question in mind about life and death. If a person dies then why again he is born on the planet. During his meditation, he got the answer that a human being takes birth just due to his own karma and later he dies. Both are painful for the human being to take birth and die as well as life journey that he goes thru between birth and death.</p>
-                        <p class="about__description">Bhrigurishi was upset with the answer that he had received on life & birth. The next question that comes up in his mind is how to make a human being relief from the cycle of birth and death? He realized that if a human being stops his karmas (duty) then he may be relief from life/death cycle.</p>
-                    </div> 
-                </div>
-                <br>
-                <p class="about__description">But it’s not practically feasible, as human being can neither stop thinking nor avoid his karma. To attend moksh (liberation from life and death cycle) was not in hand of human being. Then the question certainly raised was, what is the solution to achieve it?</p>
-                    <p class="about__description">Then Bhrigurishi created bhrigusamhita for the ultimate solution of getting moksh.It is very clearly mentioned in the bhrigusamhita, that if a person does all kind of satvik/pure karma than he can master his destiny as per his choice.Hardwordk and good deeds are only two sutra that one can get as a summary of Bhrigusamhita.</p>
-                    <p class="about__description">For Moksh, third sutra that has been derived from Bhrigusamhita was recitation/chanting of holy words – such as “Ram Ram” “Radha Krishna” whenever a person his free of his any work. Even chanting Gods name at the time of death also leads to Moksh.</p>
-                    <p class="about__description">Major problems in life such as – premature death, pitru dosh, black magic, health problem can be ward off thru regular chanting of “Mahamritunjay mantra” is mentioned as a part of remedy in Bhrigusamhita.</p>
-                    <p class="about__description">Other things that are given as remedy is charity. This is explained in a very simple way in Bhrigusamhita which eradicates all ancestor dosh karma from from our life.</p>
-                    <p class="about__description">Second mantra, which is emphasized “Gayatri Mantra” which helps is eradicating Vastu dosh and pitru dosh and other physical body pain element.</p>
-                    <p class="about__description">In charity, gold is considered to ward off all the problems and food charity for all kind of obstacles.</p>
+            <!-- About Section -->
+            <section class="about section menu__content bd-container" id="sitemap">
+                <h2 class="section-title about__initial">SITEMAP</h2>   
+                <a href="index.html" class="nav__link ">Home</a>
+                <a href="about.html" class="nav__link">About us</a>
+                        <a href="bhrigusamhita.html" class="nav__link">Bhrigu Samhita</a>
+                        <a href="lamafera.html" class="nav__link">Lama Fera</a>
+                        <a href="yogmaya.html" class="nav__link active-link">Yogmaya</a>
+                        <a href="index.html#contact" class="nav__link">Contact us</a>
+                        <a href="privacypolicy.html" class="nav__link">Privacy Policy</a>    
             </section>
-
-            <footer class="footer section bd-container">
-                <div class="footer__container bd-grid">
-                   
-    
-                    <div class="menu__content">
-                        
-                        <h3 class="footer__title">Metro News </h3>
-                        <br>
-                        <iframe  src="https://www.youtube.com/embed/Szmu3fXjOTE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
-
-                    <div class="menu__content">
-                        
-                        <h3 class="footer__title">Interviews</h3>
-                        <br>
-                        <iframe  src="https://www.youtube.com/embed/wrWMWRq50bc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
-    
-                    <div class="menu__content">
-                        
-                        <h3 class="footer__title">Shree Bhrigu Aarti</h3>
-                        <br>
-                        <iframe  src="https://www.youtube.com/embed/IDm9wB9RotY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div>
-    
-                    <!-- <div class="menu__content">
-                        
-                        <h3 class="footer__title">Bhrigusamhita</h3>
-                        <br>
-                        <iframe  src="https://www.youtube.com/embed/cNxtO1wCN4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                        
-                    </div> -->
-                </div>
-
-                
-                
-            </footer>
-
         </main>
 
         <!--========== FOOTER ==========-->

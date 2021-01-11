@@ -1,0 +1,9 @@
+User-agent: Googlebot 
+Disallow: /assets/js
+Disallow: /privacypolicy
+Disallow: /about
+
+User-agent: *
+Disallow: /assets/js
+Disallow: /privacypolicy
+Disallow: /about
