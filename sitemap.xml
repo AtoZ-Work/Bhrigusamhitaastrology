@@ -1,141 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-        <!--========== BOX ICONS ==========-->
-        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
-
-        <!--========== CSS ==========-->
-        <link rel="stylesheet" href="assets/css/styles.css">
-
-        <meta
-        name="description"
-        content="Career Problems,Education Problems,Health Problems,Business Problems,Love Problems,Marriage Problems,Children Problems,Abroad Problems,Court Case Problems,Past Life Problems,Graha Dosha Problems,Vastu Dosha Problems,Family Dispute Resolution ,Black Magic,Vashikaran Problems, Kundali Matching Problems, Husband Wife Dispute, Divorce Problem, Tarot Card Reading"
-      />
-      <meta name="keywords" content="Bhrigu Samhita, Bhrigusamhita,bhrigusamhita,bhrigu samhita,bhrigusamhita pune,bhrigusamhita specialist, professional astrologer,phd in astrology, nirmala agrawal, nirmala agrawal pune, nirmala agrawal astrology, nirmala agrawal bhrigusamhita, nirmala agrawal lamafera, nirmala agrawal yogmaya,nirmala agrawal astrologer, Career Problems,Education Problems,Health Problems,Business Problems,Love Problems,Marriage Problems,Children Problems,Abroad Problems,Court Case Problems,Past Life Problems,Graha Dosha Problems,Vastu Dosha Problems,Family Dispute Resolution ,Black Magic,Vashikaran Problems, Kundali Matching Problems, Husband Wife Dispute, Divorce Problem, Tarot Card Reading, ">
-  
-        <title>Yogmaya</title>
-
-        <!-- favicon design -->
-        <link rel="apple-touch-icon" sizes="57x57" href="assets/img/apple-icon-57x57.png">
-<link rel="apple-touch-icon" sizes="60x60" href="assets/img/apple-icon-60x60.png">
-<link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-icon-72x72.png">
-<link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon-76x76.png">
-<link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-icon-114x114.png">
-<link rel="apple-touch-icon" sizes="120x120" href="assets/img/apple-icon-120x120.png">
-<link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-icon-144x144.png">
-<link rel="apple-touch-icon" sizes="152x152" href="assets/img/apple-icon-152x152.png">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/img/apple-icon-180x180.png">
-<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/android-icon-192x192.png">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon-96x96.png">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
-<link rel="manifest" href="/manifest.json">
-<meta name="msapplication-TileColor" content="#ffffff">
-<meta name="msapplication-TileImage" content="assets/img/ms-icon-144x144.png">
-<meta name="theme-color" content="#ffffff">
-    </head>
-    <body>
-
-        <!--========== SCROLL TOP ==========-->
-        <a href="#" class="scrolltop" id="scroll-top">
-            <i class='bx bx-chevron-up scrolltop__icon'></i>
-        </a>
-
-        <!--========== HEADER ==========-->
-        <header class="l-header" id="header">
-            <nav class="nav bd-container">
-                <a href="index.html" class="nav__logo"><strong> Bhrigu Samhita</strong></a>
-                <div class="nav__menu" id="nav-menu">
-                    <ul class="nav__list">
-                        <li class="nav__item"><a href="index.html" class="nav__link ">Home</a></li>
-                        <li class="nav__item"><a href="about.html" class="nav__link">About us</a></li>
-                        <li class="nav__item"><a href="bhrigusamhita.html" class="nav__link">Bhrigu Samhita</a></li>
-                        <li class="nav__item"><a href="lamafera.html" class="nav__link">Lama Fera</a></li>
-                        <li class="nav__item"><a href="#yogmaya" class="nav__link active-link">Yogmaya</a></li>
-                        <li class="nav__item"><a href="index.html#contact" class="nav__link">Contact us</a></li>
-                        <li class="nav__item"><a href="privacypolicy.html" class="nav__link">Privacy Policy</a></li>
-                    </ul>
-                </div>
-                <div class="nav__toggle" id="nav-toggle">
-                    <i class='bx bx-menu'></i>
-                </div>
-            </nav>
-            <marquee behavior="scroll" class="services__title" direction="left" scrollamount="10" style="background-color: #F65314; color: #fff;" ><strong>Career &nbsp;&nbsp;&nbsp;&nbsp; ⭐&nbsp;&nbsp;&nbsp;&nbsp; Education &nbsp;&nbsp;&nbsp;&nbsp;⭐&nbsp;&nbsp;&nbsp;&nbsp; Health &nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Business &nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Love &nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Marriage&nbsp;&nbsp;&nbsp;&nbsp;  ⭐&nbsp;&nbsp;&nbsp;&nbsp; Children &nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Abroad &nbsp;&nbsp;&nbsp;&nbsp;⭐&nbsp;&nbsp;&nbsp;&nbsp; Court Case&nbsp;&nbsp;&nbsp;&nbsp; ⭐ &nbsp;&nbsp;&nbsp;&nbsp;Past Life&nbsp;&nbsp;&nbsp;&nbsp; ⭐&nbsp;&nbsp;&nbsp;&nbsp; Graha Dosha&nbsp;&nbsp;&nbsp;&nbsp; ⭐&nbsp;&nbsp;&nbsp;&nbsp; Vastu Dosha&nbsp;&nbsp;&nbsp;&nbsp; ⭐&nbsp;&nbsp;&nbsp;&nbsp; Family Dispute Resolution &nbsp;&nbsp;&nbsp;&nbsp;⭐&nbsp;&nbsp;&nbsp;&nbsp; Black Magic &nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Vashikaran&nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Kundali Matching&nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp;Husband Wife Dispute&nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp; Divorce Problem&nbsp;&nbsp;&nbsp;&nbsp;⭐ &nbsp;&nbsp;&nbsp;&nbsp; Tarot Card Reading</strong></marquee>
-        </header>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-
-        <main class="l-main">
-                
-            <!-- About Section -->
-            <section class="about section menu__content bd-container" id="sitemap">
-                <h2 class="section-title about__initial">SITEMAP</h2>   
-                <a href="index.html" class="nav__link ">Home</a>
-                <a href="about.html" class="nav__link">About us</a>
-                        <a href="bhrigusamhita.html" class="nav__link">Bhrigu Samhita</a>
-                        <a href="lamafera.html" class="nav__link">Lama Fera</a>
-                        <a href="yogmaya.html" class="nav__link active-link">Yogmaya</a>
-                        <a href="index.html#contact" class="nav__link">Contact us</a>
-                        <a href="privacypolicy.html" class="nav__link">Privacy Policy</a>    
-            </section>
-        </main>
-
-        <!--========== FOOTER ==========-->
-        <footer class="footer section bd-container">
-            <div class="footer__container bd-grid">
-                <div class="footer__content">
-                    <a href="#" class="footer__logo">Nirmala Agrawal</a>
-                    <span class="footer__description">Bhrigusamhita Specialist</span>
-                    <div>
-                        <a href="#" class="footer__social"><i class='bx bxl-facebook'></i></a>
-                        <a href="#" class="footer__social"><i class='bx bxl-instagram'></i></a>
-                        <a href="#" class="footer__social"><i class='bx bxl-twitter'></i></a>
-                    </div>
-                </div>
-
-                <div class="footer__content">
-                    <h3 class="footer__title">Email Id</h3>
-                    <ul>
-                        <li><a href="#" class="footer__link">nirmalaagrwal@gmail.com</a></li>
-                        
-                    </ul>
-                </div>
-
-                <div class="footer__content">
-                    <h3 class="footer__title">Contact No.</h3>
-                    <ul>
-                        <li><a href="#" class="footer__link">+91 9860088871</a></li>
-                        
-                    </ul>
-                </div>
-
-                <div class="footer__content">
-                    <h3 class="footer__title">Address</h3>
-                    <ul>
-                        <li>Dr. Shirodkar Nagar Housing Complex</li>
-                        <li>  B-14</li>
-                        <li> Ashok Nagar</li>
-                        <li> Pune-411007</li>
-                        
-                        
-                    </ul>
-                </div>
-            </div>
-
-            <p class="footer__copy">&#169; 2021 Amber Gupta. All right reserved</p>
-        </footer>
-
-        <!--========== SCROLL REVEAL ==========-->
-        <script src="https://unpkg.com/scrollreveal"></script>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
-        <!--========== MAIN JS ==========-->
-        <script src="assets/js/main.js"></script>
-    </body>
-</html>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/index.html</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/bhrigusamhita.html</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/lamafera.html</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/yogmaya.html</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/assets/img/mrityu.pdf</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.bhrigusamhitapune.ml/assets/img/rahasya.pdf</loc>
+  <lastmod>2021-01-16T17:50:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
